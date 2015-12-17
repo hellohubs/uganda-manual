@@ -6,7 +6,7 @@
 * [Turn on/of the User Terminal](manual/topbox.md)
 * Registering a new user
 * Opening a program
-* Opening the web browser
+* Opening a web browser
 * Troubleshooting
 * Community Contacts
    * Kidubuli
