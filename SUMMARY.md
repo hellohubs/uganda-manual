@@ -5,7 +5,7 @@
 * [Power Off the System](manual/power_off.md)
 * [Turn on/off the User Terminal](manual/topbox.md)
 * [Registering a new user](manual/register.md)
-* Opening a program
+* [Opening a program](manual/open.md)
 * Opening a web browser
 * Troubleshooting
 * Important Contacts
