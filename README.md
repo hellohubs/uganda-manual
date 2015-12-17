@@ -10,3 +10,10 @@ The locations of the four hubs are:
 
 The following chapters will cover the basic operation of the Hello Hubs, and provide additional contact information in case you run into something that is not covered.
 
+___
+
+Hello Hubs are community-built, off-grid internet kiosks for education and development.
+
+The Uganda Hello Hubs were built by the communities they live in, and were supported by Projects For All, Lessons For Life Foundation, Pangea Educational Development, and 
+
+Initial development of Hello Hubs is being supported by [Projects For All](http://projectsforall.org/). To learn more about [Projects For All](http://projectsforall.org/)'s use of Hello Hubs in education and community development, see [Project Hello World.](http://projectsforall.org/blog/project/project-hello-world/)
