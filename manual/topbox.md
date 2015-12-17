@@ -1,2 +1,2 @@
-# Turn on/of the User Terminal
+# Turn on/off the User Terminal
 
