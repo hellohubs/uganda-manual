@@ -9,11 +9,11 @@
 * Opening a web browser
 * Troubleshooting
 * Important Contacts
-  * Community Contacts
-    * Kidubuli
-    * Tooro High School
-    * St. James Primary
-    * Busawula
-  * PED Uganda Contacts
-  * PFA Hello World Contacts
+   * Community Contacts
+       * [Kidubuli](contacts/kidubuli.md)
+       * Tooro High School
+       * St. James Primary
+       * Busawula
+   * PED Uganda Contacts
+   * PFA Hello World Contacts
 
