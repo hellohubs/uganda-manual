@@ -14,6 +14,6 @@
        * [Tooro High School](contacts/tooro.md)
        * [St. James Primary](contacts/st_james.md)
        * [Busawula](contacts/busawula.md)
-   * PED Uganda Contacts
+   * [PED Uganda Contacts](contacts/ped.md)
    * PFA Hello World Contacts
 
