@@ -1,4 +1,4 @@
-# Summary
+# Manual Table of Contents
 
 * [Introduction](README.md)
 * [Power On the System](manual/power_on.md)
