@@ -6,7 +6,7 @@
 * [Turn on/off the User Terminal](manual/topbox.md)
 * [Registering a new user](manual/register.md)
 * [Opening a program](manual/open.md)
-* Opening a web browser
+* [Opening a web browser](manual/www.md)
 * Troubleshooting
 * Important Contacts
    * Community Contacts
