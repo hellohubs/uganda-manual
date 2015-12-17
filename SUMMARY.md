@@ -11,7 +11,7 @@
 * Important Contacts
    * Community Contacts
        * [Kidubuli](contacts/kidubuli.md)
-       * Tooro High School
+       * [Tooro High School](contacts/tooro.md)
        * St. James Primary
        * Busawula
    * PED Uganda Contacts
