@@ -12,7 +12,7 @@
    * Community Contacts
        * [Kidubuli](contacts/kidubuli.md)
        * [Tooro High School](contacts/tooro.md)
-       * St. James Primary
+       * [St. James Primary](contacts/st_james.md)
        * Busawula
    * PED Uganda Contacts
    * PFA Hello World Contacts
