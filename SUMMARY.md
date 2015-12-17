@@ -1,9 +1,9 @@
-# Manual Table of Contents
+# Summary
 
 * [Introduction](README.md)
 * [Power On the System](manual/power_on.md)
 * [Power Off the System](manual/power_off.md)
-* [Turn on/of the User Terminal](manual/topbox.md)
+* [Turn on/off the User Terminal](manual/topbox.md)
 * Registering a new user
 * Opening a program
 * Opening a web browser
