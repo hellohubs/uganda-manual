@@ -15,5 +15,5 @@
        * [St. James Primary](contacts/st_james.md)
        * [Busawula](contacts/busawula.md)
    * [PED Uganda Contacts](contacts/ped.md)
-   * PFA Hello World Contacts
+   * [PFA Hello World Contacts](contacts/pfa.md)
 
