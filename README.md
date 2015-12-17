@@ -18,6 +18,6 @@ ___
 
 Project: Hello World is Projects For All's initiative to build Hello Hubs with local communities worldwide. 
 
-The Uganda Hello Hubs were built by the communities where they are located, in partnership with Projects For All and Pangea Educational Development. The builds were supported by Lessons For Life Foundation.
+The Uganda Hello Hubs were built by the communities where they are located, in partnership with [Projects For All](http://projectsforall.org) and [Pangea Educational Development](http://www.pangeaeducation.org/). The builds were supported by [Lessons For Life Foundation](http://www.lessonsforlifefoundation.org/).
 
 Initial development of Hello Hubs is being supported by [Projects For All](http://projectsforall.org/). To learn more about [Projects For All](http://projectsforall.org/)'s use of Hello Hubs in education and community development, see [Project Hello World.](http://projectsforall.org/blog/project/project-hello-world/)
