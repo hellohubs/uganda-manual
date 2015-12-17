@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Power On the System](manual/power_on.md)
 * [Power Off the System](manual/power_off.md)
-* Turn on/of the User Terminal
+* [Turn on/of the User Terminal](manual/topbox.md)
 * Registering a new user
 * Opening a program
 * Opening the web browser
