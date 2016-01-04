@@ -23,9 +23,9 @@ Before you start, double check all breakers to make sure NONE are tripping. If o
 * Check polarity
   - Polarity WRONG: Investigate and fix wiring from Solar Panels. WARNING: This condition could result in damage to wire and systems. Check over system before reconnecting. This is unlikely unless this is the initial state of installation.
   - Polarity OK: Check PV Voltage
-    - Voltage is below 17v (during sun)
+    - Voltage is below 21v (during sun)
       - Check panels for dust: clean
       - Check wiring for loose connections: reset all connections
-      - Check wire for damage replace or repair
-      - Check panels for damage: replace or repair. Note, a panel can be disconnected and the system should continue to charge without the damaged panel being connected.
+      - Check wire for damage: replace or repair
+      - Check panels for damage: replace or repair. Note, a panel can be disconnected and the system should continue to charge without the damaged panel being connected. Care must be taken to secure and wrap the open wires after disconnection (they will have voltage present from other panels.
     - Voltage is over 21v (should be ~30v). PV voltage appears to be OK. If PV voltage is over 21v, battery side is ok (above) and charge controller is not charging, The likely problem is the charge controller.
