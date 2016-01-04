@@ -1,7 +1,7 @@
 Charge Controller NOT charging
 ===========================================================================
 
-## Symptoms are there IS sun and NO led lights.
+## Symptoms are there IS sun and NO led lights blue on Charge Controller.
 
 Before you start, double check all breakers to make sure NONE are tripping. If one is tripping, there is a system fault that needs to be addressed. Turn OFF the system breaker before proceeding with the following workflow.
 
@@ -13,9 +13,9 @@ Before you start, double check all breakers to make sure NONE are tripping. If o
   - Polarity WRONG: Investigate and fix wiring from Battery to Charge Controller. WARNING: This condition could result in damage to wire and systems. Check over system before reconnecting. This is unlikely unless this is the initial state of installation.
   - Polarity OK: Check Voltage
     - Under 11.85v
-      - NO Voltage: Likely cable problem. Trace cabling and fix.
-      - 1v-11.85v: Batteries are below minimum functioning level. Allow charger to recharge to 12v before turning on. If charger is not working, connect charged 12v in parrellel.
-    - Over 12.5v: Voltage appears to be OK. Problem likely on PV / solar side. If not. Charge controller could be bad.
+      - NO Voltage - 2v: Could be wiring. Trace wire and fix.
+      - 2v-11.85v: Batteries are below minimum functioning level for system but charger should still operate. If no LEDs on charge controller, proceed to test PV side as per below. 
+    - Over 11.85v: Voltage appears to be OK. Proceed to test PV side as per below.
 
 ## 2. Check PV Terminals
 ---------------
