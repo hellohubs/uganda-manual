@@ -8,6 +8,7 @@
 * [Opening a program](manual/open.md)
 * [Opening a web browser](manual/www.md)
 * [Troubleshooting](troubleshooting/troubleshooting.md)
+   * Charge Controller
 * Important Contacts
    * Community Contacts
        * [Kidubuli](contacts/kidubuli.md)
