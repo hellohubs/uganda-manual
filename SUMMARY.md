@@ -7,7 +7,7 @@
 * [Registering a new user](manual/register.md)
 * [Opening a program](manual/open.md)
 * [Opening a web browser](manual/www.md)
-* Troubleshooting
+* [Troubleshooting](troubleshooting/troubleshooting.md)
 * Important Contacts
    * Community Contacts
        * [Kidubuli](contacts/kidubuli.md)
