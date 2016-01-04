@@ -1,5 +1,7 @@
-Charge Controller NOT charging: Symptoms are there IS sun and NO led lights.
+Charge Controller NOT charging
 ===========================================================================
+
+## Symptoms are there IS sun and NO led lights.
 
 Before you start, double check all breakers to make sure NONE are tripping. If one is tripping, there is a system fault that needs to be addressed. Turn OFF the system breaker before proceeding with the following workflow.
 
