@@ -6,7 +6,7 @@ Charge Controller NOT charging
 Before you start, double check all breakers to make sure NONE are tripping. If one is tripping, there is a system fault that needs to be addressed. Turn OFF the system breaker before proceeding with the following workflow.
 
 
-##  1. Check Battery Terminals
+##  1. Check Battery Terminals (on charge controller)
 --------------------
 
 * Check polarity
@@ -17,7 +17,7 @@ Before you start, double check all breakers to make sure NONE are tripping. If o
       - 2v-11.85v: Batteries are below minimum functioning level for system but charger should still operate. If no LEDs on charge controller, proceed to test PV side as per below. 
     - Over 11.85v: Voltage appears to be OK. Proceed to test PV side as per below.
 
-## 2. Check PV Terminals
+## 2. Check PV Terminals (on charge controller)
 ---------------
 
 * Check polarity
