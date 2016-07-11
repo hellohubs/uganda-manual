@@ -30,4 +30,4 @@ Before you start, double check all breakers to make sure NONE are tripping. If o
       - Check panels for damage: replace or repair. Note, a panel can be disconnected and the system should continue to charge without the damaged panel being connected. Care must be taken to secure and wrap the open wires after disconnection (they will have voltage present from other panels.)
     - Voltage is over 21v (should be ~30v). PV voltage appears to be OK. If PV voltage is over 21v, battery side is ok (above) and charge controller is not charging, The likely problem is the charge controller.
 
-![](svg/controller.svg)
+![](./svg/controller.svg)
